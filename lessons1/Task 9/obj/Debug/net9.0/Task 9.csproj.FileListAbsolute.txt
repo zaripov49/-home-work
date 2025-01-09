@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\bin\Debug\net9.0\Task 9.exe
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\bin\Debug\net9.0\Task 9.deps.json
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\bin\Debug\net9.0\Task 9.runtimeconfig.json
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\bin\Debug\net9.0\Task 9.dll
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\bin\Debug\net9.0\Task 9.pdb
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\obj\Debug\net9.0\Task 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\obj\Debug\net9.0\Task 9.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\obj\Debug\net9.0\Task 9.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\obj\Debug\net9.0\Task 9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\obj\Debug\net9.0\Task 9.dll
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\obj\Debug\net9.0\refint\Task 9.dll
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\obj\Debug\net9.0\Task 9.pdb
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\obj\Debug\net9.0\Task 9.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\month 1\week 1\home work\lessons1\Task 9\obj\Debug\net9.0\ref\Task 9.dll
